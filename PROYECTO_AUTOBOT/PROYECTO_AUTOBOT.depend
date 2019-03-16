@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543570292 source:c:\users\josédavid\desktop\proyecto_autobot\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+
